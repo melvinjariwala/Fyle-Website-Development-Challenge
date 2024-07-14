@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+  .container.mb-5.pt-3.pb-3 {
+    margin-top: 20px;
+  }
+}
